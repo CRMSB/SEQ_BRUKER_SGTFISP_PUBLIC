@@ -1,0 +1,3 @@
+[submodule "SEQ/src"]
+	path = SEQ/src
+	url = https://github.com/CRMSB/SEQ_BRUKER_e_SGTFisp
